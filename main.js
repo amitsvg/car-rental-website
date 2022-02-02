@@ -23,7 +23,7 @@ sr.reveal('.text', {delay: 150, origin: 'top'});
 sr.reveal('.form-container', {delay: 200, origin: 'left'});
 sr.reveal('.heading', {delay: 30, origin: 'top'});
 sr.reveal('.ride-container .box', {delay: 20, origin: 'top'});
-sr.reveal('.services-container .box', {delay: 20, origin: 'top'});
+sr.reveal('.services', {delay: 20, origin: 'top'});
 sr.reveal('.about-container', {delay: 50, origin: 'top'});
 sr.reveal('.reviews-container', {delay: 50, origin: 'top'});
 sr.reveal('.newsletter .box', {delay: 400, origin: 'bottom'});
